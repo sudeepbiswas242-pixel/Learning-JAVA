@@ -8,7 +8,7 @@ public class ChackLeapYear {
         int Year = input.nextInt();
 
         if(Year % 400 ==0){
-            System.out.print("Year is Leap year ");
+            System.out. print("Year is Leap year ");
 
         }
         else if (Year % 100 ==0 ) {
