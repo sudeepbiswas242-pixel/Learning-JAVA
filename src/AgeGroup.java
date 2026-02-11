@@ -10,7 +10,7 @@ public class AgeGroup {
         if(age <= 13){
             System.out.println("You are a children");
         }
-        else if (age<=20){
+        else if (age<=20) {
             System.out.println("You are teenager");
         }
         else if(age<=60){
