@@ -12,7 +12,7 @@ public class Calculater {
         int sub = firstnum -  secondnum;
         int mul = firstnum * secondnum;
         int div = firstnum/secondnum;
-        int modu= firstnum%secondnum;
+        int modu=  firstnum%secondnum;
         System.out.println(" sum=  " + sum);
         System.out.println(" sub= " +sub);
         System.out.println(" mul ="+ mul);
