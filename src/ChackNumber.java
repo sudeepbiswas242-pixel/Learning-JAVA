@@ -11,7 +11,7 @@ public class ChackNumber {
         if(Number > 0){
             System.out.println("It is a Positive Number ");
         }
-        else if(Number==0){
+        else if(Number ==0){
             System.out.println("Your number is Zero ");
         }
         else {
