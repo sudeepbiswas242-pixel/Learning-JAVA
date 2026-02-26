@@ -11,7 +11,7 @@ public class BitWiseOddEven {
             System.out.println("It is a Odd Number ");
         }
         else {
-            System.out.println("It  is a Even Number ");
+            System.out.println("It   is a Even Number ");
         }
 
     }
