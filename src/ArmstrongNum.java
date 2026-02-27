@@ -8,7 +8,7 @@ public class ArmstrongNum {
         int num=input.nextInt();
         boolean isArmstrong=isArmstrong(num);
         if(isArmstrong){
-            System.out.println("your number is Armstrong");
+            System.out.println("your  number is Armstrong");
         }
         else {
             System.out.println("your number is not Armstrong");
