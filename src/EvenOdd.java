@@ -3,7 +3,7 @@ public class EvenOdd {
         checkEvenOdd(7);   // function call
     }
 
-    public static void checkEvenOdd(int num) {
+    public static void checkEvenOdd(int  num) {
         if (num % 2 == 0) {
             System.out.println("Even  number");
         } else {
