@@ -10,6 +10,6 @@ public class BitewiseAnd {
         int Num2 = input.nextInt();
 
         int Number  = Num1 & Num2;
-        System.out.println("Your Answer is : "+ Number);
+        System.out.println("Your Answer  is : "+ Number);
     }
 }
