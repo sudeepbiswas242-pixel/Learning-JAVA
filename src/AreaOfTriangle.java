@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class AreaOfTriangle {
     static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println(" Calculate Area of Triangle");
+        System.out.println(" Calculate  Area of Triangle");
         System.out.print(" Enter the value of Breath : ");
         double Breath = input.nextDouble();
         System.out.print(" Enter the value of height : ");
