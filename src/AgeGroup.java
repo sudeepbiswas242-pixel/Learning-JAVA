@@ -8,7 +8,7 @@ public class AgeGroup {
         int age = input.nextInt();
 
         if(age <= 13){
-            System.out.println("You are a children");
+            System.out.println("You  are a children");
         }
         else if (age<=20) {
             System.out.println("You are teenager");
