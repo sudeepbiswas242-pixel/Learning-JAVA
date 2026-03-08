@@ -11,7 +11,7 @@ public class ArmstrongNum {
             System.out.println("your  number is Armstrong");
         }
         else {
-            System.out.println("your number is not Armstrong");
+            System.out.println("your  number is not Armstrong");
         }
 
     }
