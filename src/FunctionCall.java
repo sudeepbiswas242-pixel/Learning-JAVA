@@ -3,7 +3,7 @@ public class FunctionCall {
         pattern();
 
     }
-    public static void pattern (){
+    public static  void pattern (){
         int rows =0;
         while (rows<5){
             System.out.print("*");
