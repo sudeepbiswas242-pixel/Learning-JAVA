@@ -4,7 +4,7 @@ public class ArmstrongNum {
     static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome to Armstrong Number ");
-        System.out.print("Enter Your Number: ");
+        System.out.print("Enter Your  Number: ");
         int num=input.nextInt();
         boolean isArmstrong=isArmstrong(num);
         if(isArmstrong){
