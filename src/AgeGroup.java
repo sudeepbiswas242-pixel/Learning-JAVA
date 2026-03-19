@@ -11,7 +11,7 @@ public class AgeGroup {
             System.out.println("You  are a children");
         }
         else if (age<=20) {
-            System.out.println("You are teenager");
+            System.out.println("You  are teenager");
         }
         else if(age<=60){
             System.out.println("You are Adult");
