@@ -10,7 +10,7 @@ public class BitWiseOR {
             System.out.print("Enter  Your Number 2 : ");
             int Num2 = input.nextInt();
 
-            int Number  = Num1 | Num2;
+            int Number   = Num1 | Num2;
             System.out.println("Your   Answer is : "+ Number);
         }
     }
