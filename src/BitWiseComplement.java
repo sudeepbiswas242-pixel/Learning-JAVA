@@ -9,7 +9,7 @@ public class BitWiseComplement {
 
 
         int num = ~num1;
-        System.out.print("your answer is : "+num);
+        System.out.print("your  answer is : "+num);
     }
 }
 
