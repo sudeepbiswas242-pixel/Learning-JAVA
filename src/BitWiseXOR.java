@@ -9,6 +9,6 @@ public class BitWiseXOR {
         int num2 =input.nextInt();
 
         int num = num1 ^ num2;
-        System.out.print("your answer is : "+num);
+        System.out.print("your  answer is : "+num);
     }
 }
