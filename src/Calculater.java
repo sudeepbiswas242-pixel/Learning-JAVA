@@ -8,7 +8,7 @@ public class Calculater {
         int firstnum = input.nextInt();
         System.out.print("enter your second num: ");
         int secondnum = input.nextInt();
-        int sum = firstnum +  secondnum ;
+        int sum = firstnum +   secondnum ;
         int sub = firstnum -   secondnum;
         int mul = firstnum * secondnum;
         int div = firstnum/secondnum;
