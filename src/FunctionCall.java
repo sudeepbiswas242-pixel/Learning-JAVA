@@ -8,7 +8,7 @@ public class FunctionCall {
         while (rows<5){
             System.out.print("*");
             int i=0;
-            while (i<rows){
+            while  (i<rows){
                 System.out.print(" *");
                 i++;
             }
