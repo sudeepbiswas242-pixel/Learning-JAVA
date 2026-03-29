@@ -10,7 +10,7 @@ public class FunctionCallRightHalfPyramid {
             int i =0;
             while (i<row){
                 System.out.print(" *");
-                i++;
+                i++ ;
             }
             System.out.println();
             row--;
