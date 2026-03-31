@@ -6,7 +6,7 @@ public class FunctionCall {
     public static  void pattern (){
         int rows =0;
         while (rows<5){
-            System.out.print("*");
+            System.out.print ("*");
             int i=0;
             while  (i<rows){
                 System.out.print(" *");
