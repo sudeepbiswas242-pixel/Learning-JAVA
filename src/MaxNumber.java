@@ -3,7 +3,7 @@ public class MaxNumber {
         findMax(12, 25);
     }
 
-    public static void findMax(int a, int b) {
+    public static void  findMax(int a, int b) {
         if (a > b) {
             System.out.println(a + " is greater");
         } else {
