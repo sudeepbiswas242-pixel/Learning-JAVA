@@ -9,7 +9,7 @@ public class FunctionCall {
             System.out.print ("*");
             int i=0;
             while  (i<rows){
-                System.out.print(" *");
+                System.out.print (" *");
                 i++;
             }
             System.out.println();
