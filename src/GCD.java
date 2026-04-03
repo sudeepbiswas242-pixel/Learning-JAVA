@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class GCD {
     static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Welcome to GCD Calculator");
+        System.out.println("Welcome  to GCD Calculator");
         System.out.println("Enter Your First Num: ");
         int firstnum= input.nextInt();
         System.out.println("Enter your second Num: ");
