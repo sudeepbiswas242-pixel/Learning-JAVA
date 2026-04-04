@@ -1,4 +1,4 @@
-public class LeftHalfPyramid1 {
+public class  LeftHalfPyramid1 {
     static void main(String[] args) {
 
 
