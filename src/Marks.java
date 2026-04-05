@@ -4,7 +4,7 @@ public class Marks {
     static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome  Grade base on marks calculater ");
-        System.out.print("Enter Your Marks : ");
+        System.out.print("Enter  Your Marks : ");
         float Marks = input.nextFloat();
 
         if ( Marks >= 90 ){
