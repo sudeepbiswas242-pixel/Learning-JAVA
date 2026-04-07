@@ -9,7 +9,7 @@ public class Fibonacci {
         System.out.println("here is fibonacci series");
         printFibonacci(num);
     }
-    public static void printFibonacci(int num){
+    public static void printFibonacci (int num){
         if (num<0) return;
         System.out.print(" 0");
         if(num==0) return;
