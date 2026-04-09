@@ -11,7 +11,7 @@ public class Relation2 {
        else {
            if(IsAdult) {
             System.out.println("Hello Adult");}
-            else {
+            else { 
                 System.out.println("Hello child");
             }
         }
