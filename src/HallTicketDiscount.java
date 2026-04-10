@@ -5,7 +5,7 @@ public class HallTicketDiscount {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Welcome to Hall Ticket Discount System");
+        System.out.println("Welcome  to Hall Ticket Discount System");
         System.out.print("Enter your age: ");
         int age = input.nextInt();
 
