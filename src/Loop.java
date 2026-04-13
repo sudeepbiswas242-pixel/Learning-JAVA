@@ -3,7 +3,7 @@ public class Loop {
         int num=1;
 
         while (num<=10)b{
-            System.out.println(num);
+            System.out.println (num);
             num=num+1;
         }
 
