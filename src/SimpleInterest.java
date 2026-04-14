@@ -11,7 +11,7 @@ public class SimpleInterest {
         System.out.print(" Enter the value of Time: ");
         float Time = input.nextFloat();
         float Interest = (Principle*Rate*Time)/100;
-        System.out.print(" The Simple Interest is : "+Interest);
+        System.out.print("  The Simple Interest is : "+Interest);
 
     }
 }
