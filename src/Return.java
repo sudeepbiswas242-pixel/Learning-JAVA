@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Return {
-    static void main(String[] args) {
+    static void main(String[]  args) {
         greed();
          int First=ReadNumber();
         int Second=ReadNumber();
