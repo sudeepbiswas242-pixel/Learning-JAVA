@@ -11,7 +11,7 @@ public class Marks {
             System.out.println("Grade  A");
         }
         else if(Marks >=75){
-            System.out.println("Grade B");
+            System.out.println("Grade  B");
         } else if (Marks>=60) {
             System.out.println("Grade C");
             
