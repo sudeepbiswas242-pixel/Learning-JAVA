@@ -1,5 +1,5 @@
 public class  LeftHalfPyramid1 {
-    static void main(String[] args) {
+    static void main(String[]  args) {
 
 
 
