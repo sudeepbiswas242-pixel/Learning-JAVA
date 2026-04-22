@@ -12,7 +12,7 @@ public class GreatestThreeNum {
 
 
         if(firstNum >= secondnum && firstNum >= thirdnum ){
-            System.out.println( firstNum + " is  Greatest num: ");
+            System.out.println(  firstNum + " is  Greatest num: ");
         }
         else if (secondnum >= firstNum && secondnum >= thirdnum){
             System.out.println( secondnum+ " is Greatest num");
