@@ -7,7 +7,7 @@ public class RightShift {
         System.out.print("Enter Your  Number : ");
         int num1 = input.nextInt();
 
-
+ 
         int num = num1>>1;
         System.out.print("your answer is : "+num);
     }
