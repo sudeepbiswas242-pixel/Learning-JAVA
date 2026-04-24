@@ -6,7 +6,7 @@ public class AgeGroup {
         System.out.println("Welcome to age Group Calculator ");
         System.out.print("Enter Your age: ");
         int age = input.nextInt();
-
+ 
         if(age <= 13){
             System.out.println("You  are a children");
         }
